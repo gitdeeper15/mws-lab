@@ -1,0 +1,68 @@
+{
+  "domain": "earth_environmental_sciences",
+  "truth_score": 85.0,
+  "entities": [
+    {
+      "name": "Water Scarcity Index",
+      "role": "Target Variable",
+      "value": 0.85
+    },
+    {
+      "name": "Annual Rainfall",
+      "role": "Environmental Factor",
+      "value": 0.65
+    },
+    {
+      "name": "Groundwater Depletion Rate",
+      "role": "Environmental Factor",
+      "value": 0.78
+    },
+    {
+      "name": "Dam Storage Capacity",
+      "role": "Environmental Factor",
+      "value": 0.72
+    },
+    {
+      "name": "Agricultural Water Demand",
+      "role": "Environmental Factor",
+      "value": 0.88
+    },
+    {
+      "name": "Population Growth Rate",
+      "role": "Socioeconomic Factor",
+      "value": 0.75
+    },
+    {
+      "name": "Climate Change Impact",
+      "role": "Environmental Factor",
+      "value": 0.82
+    },
+    {
+      "name": "Water Reuse Rate",
+      "role": "Policy Factor",
+      "value": 0.55
+    },
+    {
+      "name": "Desalination Capacity",
+      "role": "Infrastructure Factor",
+      "value": 0.45
+    },
+    {
+      "name": "Irrigation Efficiency",
+      "role": "Agricultural Factor",
+      "value": 0.68
+    }
+  ],
+  "model_type": "hybrid_rf_nn",
+  "cv_folds": 10,
+  "dataset_size": 10000,
+  "features": 30,
+  "algorithm": "Hybrid Random Forest + Neural Network",
+  "imbalance_strategy": "SMOTE",
+  "statistical_tests": [
+    "t-test",
+    "bootstrap"
+  ],
+  "confidence_level": 0.95,
+  "metrics": {}
+}

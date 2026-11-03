@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-11-02T12:49:36.338619",
+  "project": "/storage/emulated/0/Download/GITDEEPER_LAB_ZERO_V6/PROJECTS/EXPERIMENTAL/Morocco_Water_Scarcity",
+  "current_stage": "EXPERIMENTAL",
+  "new_stage": "EXPERIMENTAL",
+  "composite_score": 64.3,
+  "action": "REJECT",
+  "scope": "BLOCKED",
+  "zone": "INVALID",
+  "confidence": 0.1,
+  "review_required": true,
+  "signals": {
+    "truth_score": 51.0,
+    "calibrated": 51.0,
+    "audit_score": 65.0,
+    "agents_score": 100.0,
+    "human_approval": false,
+    "archive_signal": false,
+    "days_inactive": 0.0,
+    "data_source": "SQLite (lab_data.db)"
+  }
+}

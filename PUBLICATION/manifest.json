@@ -1,0 +1,14 @@
+{
+  "project": "mws-lab",
+  "title": "Water Scarcity in Morocco",
+  "version": "1.0.0",
+  "date": "2026-11-02",
+  "website": "https://mws-lab.netlify.app",
+  "pypi": "https://pypi.org/project/mws-lab/",
+  "doi": "10.5281/zenodo.23884236",
+  "orcid": "https://orcid.org/0009-0003-8903-0029",
+  "author": "Samir Baladi",
+  "email": "gitdeeper@gmail.com",
+  "figshare": "https://doi.org/10.6084/m9.figshare.34884417",
+  "figshare_doi": "10.6084/m9.figshare.34884417"
+}

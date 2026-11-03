@@ -1,0 +1,139 @@
+{
+  "timestamp": "2026-11-02T12:46:35.394161",
+  "project": "/storage/emulated/0/Download/GITDEEPER_LAB_ZERO_V6/PROJECTS/EXPERIMENTAL/Morocco_Water_Scarcity",
+  "version": "V4-data-quality-audit-score",
+  "audit_score": 65.0,
+  "structure_completeness": 96.97,
+  "breakdown": {
+    "A_data_present": {
+      "score": 80.0,
+      "weight": 0.4,
+      "detail": {
+        "data_dir_exists": true,
+        "files": [
+          {
+            "file": "worldbank_data.csv",
+            "size_kb": 16.0
+          },
+          {
+            "file": "input.json",
+            "size_kb": 0.2
+          }
+        ],
+        "score": 80.0
+      }
+    },
+    "B_data_used": {
+      "score": 50.0,
+      "weight": 0.3,
+      "detail": {
+        "report_exists": true,
+        "score": 50.0,
+        "total_entities": 10,
+        "updated_entities": 5,
+        "updated_list": [
+          "Water Scarcity Index",
+          "Annual Rainfall",
+          "Agricultural Water Demand",
+          "Population Growth Rate",
+          "Water Reuse Rate"
+        ]
+      }
+    },
+    "C_source_docs": {
+      "score": 40.0,
+      "weight": 0.2,
+      "detail": {
+        "paper_used": "research_paper_final.txt",
+        "hits": [
+          "ilo",
+          "https://"
+        ],
+        "score": 40.0
+      }
+    },
+    "D_consistency": {
+      "score": 100.0,
+      "weight": 0.1,
+      "detail": {
+        "score": 100.0,
+        "abstract_nums": 1,
+        "results_nums": 1,
+        "shared": 1
+      }
+    },
+    "structure_completeness_pct": 96.97
+  },
+  "structure": {
+    "dir_results": {
+      "DATA": true,
+      "PUBLICATION": true,
+      "PUBLICATION/Netlify": true,
+      "PUBLICATION/Netlify/assets": true,
+      "PUBLICATION/dist": true,
+      "VALIDATION": true,
+      "VALIDATION/.lock": true,
+      "EXTERNAL_REVIEW": true,
+      "docs": true,
+      "REPORTS": true,
+      "PAPER_PARTS": true,
+      "ANALYSIS": true
+    },
+    "file_results": {
+      "FINAL_REPORT.json": true,
+      "orchestrator_report.json": true,
+      "scientific_state.json": true,
+      "VERSION": true,
+      "PROJECT_SUMMARY.txt": true,
+      "ANALYSIS/ANALYSIS_REPORT.md": true,
+      "ANALYSIS/analysis_insights.json": true,
+      "EXTERNAL_REVIEW/review_coordinator.json": true,
+      "EXTERNAL_REVIEW/review_status.json": true,
+      "PAPER_PARTS/.assembly_complete": true,
+      "PAPER_PARTS/.generation_complete": true,
+      "PAPER_PARTS/paper_definition.md": true,
+      "PAPER_PARTS/paper_equations.tex": true,
+      "PAPER_PARTS/part_001_abstract.txt": true,
+      "PAPER_PARTS/part_002_introduction.txt": true,
+      "PAPER_PARTS/part_003_methodology.txt": true,
+      "PAPER_PARTS/part_004_results.txt": true,
+      "PAPER_PARTS/part_005_discussion.txt": true,
+      "PAPER_PARTS/part_006_conclusion.txt": true,
+      "PAPER_PARTS/part_007_references.txt": true,
+      "PUBLICATION/LICENSE": true,
+      "PUBLICATION/README.md": true,
+      "PUBLICATION/credit_table.md": true,
+      "PUBLICATION/manifest.json": true,
+      "PUBLICATION/netlify.toml": true,
+      "PUBLICATION/output_summary.txt": true,
+      "PUBLICATION/requirements.txt": true,
+      "PUBLICATION/research_paper_complete.txt": true,
+      "PUBLICATION/research_paper_final.txt": true,
+      "PUBLICATION/research_paper_humanized.txt": true,
+      "PUBLICATION/research_paper_styled.docx": true,
+      "PUBLICATION/Netlify/index.html": true,
+      "PUBLICATION/Netlify/dashboard.html": true,
+      "PUBLICATION/Netlify/documentation.html": true,
+      "PUBLICATION/Netlify/reports.html": true,
+      "PUBLICATION/Netlify/project.json": true,
+      "PUBLICATION/Netlify/assets/style.css": true,
+      "REPORTS/audit_log.json": true,
+      "REPORTS/auto_fix_log.json": true,
+      "REPORTS/citation_report.md": true,
+      "REPORTS/compliance_audit_report.json": true,
+      "REPORTS/data_fetch_report.json": true,
+      "REPORTS/evaluation_report.json": true,
+      "REPORTS/feedback_report.json": true,
+      "REPORTS/orchestrator_report.json": true,
+      "REPORTS/reference_audit_report.json": true,
+      "REPORTS/reference_provenance.json": false,
+      "REPORTS/results_consistency_report.json": true,
+      "REPORTS/state_bridge_report.json": true,
+      "VALIDATION/.lock/language_lock_report.json": true,
+      "docs/ITERATION_LOG.md": true,
+      "docs/PROJECT_SUMMARY.txt": true,
+      "docs/README_ar.md": true,
+      "docs/lessons_learned.log": false
+    }
+  }
+}

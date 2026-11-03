@@ -1,0 +1,63 @@
+{
+  "project": "Morocco_Water_Scarcity",
+  "database": "/storage/emulated/0/Download/GITDEEPER_LAB_ZERO_V6/DATA/lab_data.db",
+  "version": "V3-universal-dynamic",
+  "total_entities": 10,
+  "updated": 5,
+  "failed": 5,
+  "updated_entities": [
+    {
+      "entity": "Water Scarcity Index",
+      "old_value": 346.0,
+      "new_value": 346,
+      "unit": "mm/year",
+      "source": "TheGlobalEconomy 2022",
+      "year": 2022,
+      "data_key": "precipitation_mm_per_year"
+    },
+    {
+      "entity": "Annual Rainfall",
+      "old_value": 346.0,
+      "new_value": 346,
+      "unit": "mm/year",
+      "source": "TheGlobalEconomy 2022",
+      "year": 2022,
+      "data_key": "precipitation_mm_per_year"
+    },
+    {
+      "entity": "Agricultural Water Demand",
+      "old_value": 1240.1,
+      "new_value": 1240.1,
+      "unit": "kg/ha",
+      "source": "World Bank API (live)",
+      "year": 2023,
+      "data_key": "cereal_yield_kg_per_ha"
+    },
+    {
+      "entity": "Population Growth Rate",
+      "old_value": 63.1278612260269,
+      "new_value": 63.1278612260269,
+      "unit": "%",
+      "source": "World Bank API (live)",
+      "year": 2023,
+      "data_key": "urban_population_pct"
+    },
+    {
+      "entity": "Water Reuse Rate",
+      "old_value": 346.0,
+      "new_value": 346,
+      "unit": "mm/year",
+      "source": "TheGlobalEconomy 2022",
+      "year": 2022,
+      "data_key": "precipitation_mm_per_year"
+    }
+  ],
+  "failed_entities": [
+    "Groundwater Depletion Rate",
+    "Dam Storage Capacity",
+    "Climate Change Impact",
+    "Desalination Capacity",
+    "Irrigation Efficiency"
+  ],
+  "api_indicators_fetched": 28
+}

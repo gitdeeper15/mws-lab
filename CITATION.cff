@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+title: "Water Scarcity in Morocco: A Multivariate Analysis of Climatic, Agricultural, and Socioeconomic Drivers"
+message: "If you use this research, data, or code, please cite as below."
+type: software
+version: "1.0.0"
+date-released: "2026-11-02"
+license: MIT
+abstract: |
+  An exploratory associational analysis of the climatic, agricultural,
+  and socioeconomic drivers of national freshwater withdrawals in Morocco
+  (2000-2025). The study uses five publicly available World Bank
+  indicators, supplemented by national indicators from Morocco's 2025
+  State of the Environment Report, and applies ordinary least squares
+  regression with full diagnostics (VIF, condition number, confidence
+  intervals).
+
+  Key findings include a model R-squared of 0.812 on a sample of n = 16,
+  with agricultural water demand emerging as the dominant driver of
+  withdrawal trajectories. Morocco's renewable freshwater per capita
+  fell from approximately 2,560 cubic meters per year in 1960 to about
+  620 cubic meters in 2020, well inside the United Nations absolute
+  water-scarcity threshold.
+
+  The analysis is explicitly exploratory and associational. It is not
+  designed to establish causal attribution, and its conclusions should
+  be read as hypothesis-generating rather than confirmatory.
+keywords:
+  - water scarcity
+  - morocco
+  - world bank indicators
+  - OLS regression
+  - environmental science
+  - water policy
+  - agricultural water demand
+  - climate change
+  - freshwater withdrawals
+authors:
+  - family-names: "Baladi"
+    given-names: "Samir"
+    email: "gitdeeper@gmail.com"
+    orcid: "https://orcid.org/0009-0003-8903-0029"
+    affiliation: "Ronin Institute / Rite of Renaissance"
+repository-code: "TBD"
+url: "https://mws-lab.netlify.app"
+url: "https://doi.org/10.5281/zenodo.23884236"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23884236"
+  - type: doi
+    value: "10.6084/m9.figshare.34884417"
+  - type: url
+    value: "https://doi.org/10.5281/zenodo.23884236"
+  - type: url
+    value: "https://doi.org/10.6084/m9.figshare.34884417"
+  - type: url
+    value: "https://mws-lab.netlify.app"
+  - type: url
+    value: "https://pypi.org/project/mws-lab/"

@@ -1,0 +1,26 @@
+include README.md
+include LICENSE
+include CHANGELOG.md
+include CITATION.cff
+include AUTHORS.md
+include CONTRIBUTING.md
+include requirements.txt
+include VERSION
+
+recursive-include mws_lab/data *.csv *.json
+
+prune .venv
+prune .git
+prune __pycache__
+prune PUBLICATION
+prune DATA
+prune ANALYSIS
+prune REPORTS
+prune EXTERNAL_REVIEW
+prune VALIDATION
+prune docs
+prune dist
+prune build
+
+global-exclude *.pyc
+global-exclude *.pyo

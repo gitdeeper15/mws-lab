@@ -1,0 +1,36 @@
+{
+  "ste_enabled": true,
+  "paper_title": "Morocco Water Scarcity",
+  "paper_keywords": [
+    "population",
+    "affiliation",
+    "ronin",
+    "introduction",
+    "author",
+    "methodology",
+    "index",
+    "renaissance",
+    "cdot",
+    "scarcity",
+    "annual",
+    "governing",
+    "rainfall",
+    "abstract",
+    "error",
+    "morocco",
+    "november",
+    "agricultural",
+    "form",
+    "baladi"
+  ],
+  "paper_sections": [
+    "Introduction",
+    "Abstract",
+    "Methodology",
+    "Results",
+    "Discussion",
+    "Conclusion"
+  ],
+  "domain": "earth_environmental_sciences",
+  "consistency_target": 85
+}

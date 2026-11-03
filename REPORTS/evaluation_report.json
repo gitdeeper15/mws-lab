@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-11-02T12:46:35.149197",
+  "project": "Morocco_Water_Scarcity",
+  "domain": "earth_environmental_sciences",
+  "status": "SCORED",
+  "truth_score": 51.0,
+  "calibrated": 51.0,
+  "audit_score": 65.0,
+  "agents_score": 100.0,
+  "composite": 65.0,
+  "action": "ACCEPT",
+  "weights": {
+    "truth_score": 0.5,
+    "audit_score": 0.3,
+    "agents_score": 0.2
+  },
+  "heuristic": 51.0,
+  "llm": null,
+  "word_count": 907,
+  "ref_count": 38,
+  "entities": 10,
+  "integrity_violations": [],
+  "integrity_warnings": [],
+  "audit_breakdown": {
+    "A_data_present": {
+      "score": 80.0,
+      "weight": 0.4,
+      "detail": {
+        "data_dir_exists": true,
+        "files": [
+          {
+            "file": "worldbank_data.csv",
+            "size_kb": 16.0
+          },
+          {
+            "file": "input.json",
+            "size_kb": 0.2
+          }
+        ],
+        "score": 80.0
+      }
+    },
+    "B_data_used": {
+      "score": 50.0,
+      "weight": 0.3,
+      "detail": {
+        "report_exists": true,
+        "score": 50.0,
+        "total_entities": 10,
+        "updated_entities": 5,
+        "updated_list": [
+          "Water Scarcity Index",
+          "Annual Rainfall",
+          "Agricultural Water Demand",
+          "Population Growth Rate",
+          "Water Reuse Rate"
+        ]
+      }
+    },
+    "C_source_docs": {
+      "score": 40.0,
+      "weight": 0.2,
+      "detail": {
+        "paper_used": "research_paper_final.txt",
+        "hits": [
+          "ilo",
+          "https://"
+        ],
+        "score": 40.0
+      }
+    },
+    "D_consistency": {
+      "score": 100.0,
+      "weight": 0.1,
+      "detail": {
+        "score": 100.0,
+        "abstract_nums": 1,
+        "results_nums": 1,
+        "shared": 1
+      }
+    },
+    "structure_completeness_pct": 96.97
+  },
+  "audit_timestamp": "2026-11-02T12:46:35.391094"
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-11-02T11:40:35",
+  "project": "Morocco_Water_Scarcity",
+  "domain": "earth_environmental_sciences",
+  "ste_enabled": true,
+  "website_directory": "/storage/emulated/0/Download/GITDEEPER_LAB_ZERO_V6/PROJECTS/EXPERIMENTAL/Morocco_Water_Scarcity/PUBLICATION/Netlify",
+  "paper_title": "Morocco Water Scarcity",
+  "keywords_count": 20,
+  "target_keywords": [
+    "population",
+    "affiliation",
+    "ronin",
+    "introduction",
+    "author",
+    "methodology",
+    "index",
+    "renaissance",
+    "cdot",
+    "scarcity"
+  ],
+  "sections_count": 6,
+  "keywords_found_in_website": [
+    "methodology",
+    "index",
+    "scarcity"
+  ],
+  "consistency_percentage": 30.0
+}

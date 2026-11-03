@@ -1,0 +1,248 @@
+{
+  "total_claims": 0,
+  "aligned_claims": 0,
+  "aligned_refs": [],
+  "unaligned_refs": [
+    {
+      "id": 1,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Said BOUDHAR, Abdeslam Boudhar (2025). Water scarcity and the agricultural trade structure in Morocc..."
+    },
+    {
+      "id": 2,
+      "domain_score": 0.02,
+      "is_irrelevant": false,
+      "text": "Abzetta Sana, Tarik Chfadi, Rachida El Mansoum (2026). From belief to behavior: An exploratory analy..."
+    },
+    {
+      "id": 3,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Janet Cherono (2024). Water Scarcity and Agricultural Productivity in Nairobi, Kenya. CrossRef. http..."
+    },
+    {
+      "id": 4,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "\u00d6zlem Baydaro\u011flu (2026). Causal Links Between Climatic and Socioeconomic Drivers Shaping AMR. CrossR..."
+    },
+    {
+      "id": 5,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "(2017). Managing Urban Water Scarcity in Morocco. CrossRef. https://doi.org/10.1596/29190..."
+    },
+    {
+      "id": 6,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (None). supplementary methods and data. CrossRef. https://doi.org/10.1088/1748-9326/ae4abd/d..."
+    },
+    {
+      "id": 7,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Salwa Bajja, Gabriel Mordzifa Sackitey, Eslam A. Hassanein (2026). Determinants of agricultural prod..."
+    },
+    {
+      "id": 8,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Douh Boutheina, Mguidiche Amel, Khila Sami (2022). AGRICULTURAL WATER MANAGEMENT PRACTICES IN MENA R..."
+    },
+    {
+      "id": 9,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Farzad Taheripour, Wallace E. Tyner, Iman Haqiqi (2020). Water Scarcity in Morocco. CrossRef. https:..."
+    },
+    {
+      "id": 10,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Kyra R. Boston (2024). Resolving water scarcity in Morocco. CrossRef. https://doi.org/10.18275/pbe-v..."
+    },
+    {
+      "id": 11,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "TOUFIK EL AJRAOUI (2026). Visualizing Water Scarcity: A Semiotic Analysis of Social Awareness Commer..."
+    },
+    {
+      "id": 12,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Julie Collignan (None). Continental water cycle : climatic and non-climatic drivers of river dischar..."
+    },
+    {
+      "id": 13,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Lara M. Ismail, Zolt\u00e1n Kov\u00e1cs (2026). Socioeconomic Dimensions of Water Scarcity in Amman. CrossRef...."
+    },
+    {
+      "id": 14,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "ICIMOD HI-AWARE (2018). Enduring vulnerabilities limit adaptation: Major climatic and socioeconomic ..."
+    },
+    {
+      "id": 15,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2022). Agricultural contamination. CrossRef. https://doi.org/10.1016/b978-0-323-85378-1.000..."
+    },
+    {
+      "id": 16,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2026). Untitled. CrossRef. https://doi.org/10.3030/101271692..."
+    },
+    {
+      "id": 17,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "NILADRI SEKHAR SINGHA - (2024). Study on the Significance and the Drivers of Indigenous Traditional ..."
+    },
+    {
+      "id": 18,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Joey Blumberg, Travis Warziniack (2025). Drivers of Us Water Use and Implications for Water Scarcity..."
+    },
+    {
+      "id": 19,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Namita Poudel, Rajib Shaw (2024). Challenges of Urban Water Security and Drivers of Water Scarcity i..."
+    },
+    {
+      "id": 20,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2022). Recent scenario of agricultural contaminants on water resources. CrossRef. https://d..."
+    },
+    {
+      "id": 21,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2022). Interrelationship of rainfall and groundwater levels: Impact on socioeconomic condit..."
+    },
+    {
+      "id": 22,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Y CASTONGUAY, P DUBE (1985). Climatic analysis of a phenological zonation: A multivariate approach. ..."
+    },
+    {
+      "id": 23,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Daniel MARTUA, Keiko UDO (2026). SPATIOTEMPORAL ANALYSIS OF CLIMATIC, SOCIOECONOMIC, AND PHYSICAL DR..."
+    },
+    {
+      "id": 24,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Jyotim Gogoi, Kennedy Ningthoujam (2021). Multivariate Analysis of Spider Diversity in Agricultural,..."
+    },
+    {
+      "id": 25,
+      "domain_score": 0.02,
+      "is_irrelevant": false,
+      "text": "Unknown (2017). The Challenge of Water and Agriculture in the Middle East and North Africa and the D..."
+    },
+    {
+      "id": 26,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Parvaneh TishehZan, Saeid Eslamian (2017). Agricultural Drought: Organizational Perspectives. CrossR..."
+    },
+    {
+      "id": 27,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Debasmita Baruah, Prabhat Kishore, Ganeshkumar D. Rede (2026). Climate change and agricultural resil..."
+    },
+    {
+      "id": 28,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Fabian Drenkhan, Mark Carey, Christian Huggel (2015). The changing water cycle: climatic and socioec..."
+    },
+    {
+      "id": 29,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Vera Tekken, J\u00fcrgen Kropp (2012). Climate-Driven or Human-Induced: Indicating Severe Water Scarcity ..."
+    },
+    {
+      "id": 30,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Frank R. Rijsberman (2006). Water scarcity: Fact or fiction?. CrossRef. https://doi.org/10.1016/j.ag..."
+    },
+    {
+      "id": 31,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Alois Tilloy, Dominik Paprotny, Diego Gomez (2025). Climatic and socioeconomic drivers of changing h..."
+    },
+    {
+      "id": 32,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Hatim Sanad, Rachid Moussadek, Houria Dakak (2024). Ecological and Health Risk Assessment of Heavy M..."
+    },
+    {
+      "id": 33,
+      "domain_score": 0.05,
+      "is_irrelevant": false,
+      "text": "Wisam Bukaita, Aaron Ghiurau (2025). Multivariate Climatic Drivers of Local Extirpation: Long-term T..."
+    },
+    {
+      "id": 34,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Unknown (2024). Drivers of the growing water footprint: a global scenario. CrossRef. https://doi.org..."
+    },
+    {
+      "id": 35,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Dalila Loudyi, Soumia Saghiry, Ayoub Bouhamid Alaoui (2022). Analysis of reservoir sedimentation imp..."
+    },
+    {
+      "id": 36,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Myrthe Leijnse, Bram Droppers, Marc Bierkens (2023). Key drivers and pressures of water scarcity at ..."
+    },
+    {
+      "id": 37,
+      "domain_score": 0.05,
+      "is_irrelevant": false,
+      "text": "Martina Angela Caretta (2015). Managing variability and scarcity. An analysis of Engaruka: A Maasai ..."
+    },
+    {
+      "id": 38,
+      "domain_score": 0.02,
+      "is_irrelevant": false,
+      "text": "Luis Santos Pereira, Theib Oweis, Abdelaziz Zairi (2002). Irrigation management under water scarcity..."
+    },
+    {
+      "id": 39,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Yaoping Wang, Tao Cao, Shuo Zhang (2026). Long-term socioeconomic trends and climate variability as ..."
+    },
+    {
+      "id": 40,
+      "domain_score": 0.0,
+      "is_irrelevant": false,
+      "text": "Lara M. Ismail, Zolt\u00e1n Kov\u00e1cs (2026). Socioeconomic Dimensions of Water Scarcity in Amman. CrossRef...."
+    }
+  ],
+  "details": []
+}

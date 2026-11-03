@@ -1,0 +1,24 @@
+# Morocco_Water_Scarcity - Project Summary
+
+**Domain:** earth_environmental_sciences
+**Subdiscipline:** N/A
+**Truth Score:** 85.0
+**Stage:** EXPERIMENTAL
+
+## Entities:
+- Water Scarcity Index, Target Variable, 346.0
+- Annual Rainfall, Environmental Factor, 346.0
+- Groundwater Depletion Rate, Environmental Factor, 0.78
+- Dam Storage Capacity, Environmental Factor, 0.72
+- Agricultural Water Demand, Environmental Factor, 1240.1
+- Population Growth Rate, Socioeconomic Factor, 63.1278612260269
+- Climate Change Impact, Environmental Factor, 0.82
+- Water Reuse Rate, Policy Factor, 346.0
+- Desalination Capacity, Infrastructure Factor, 0.45
+- Irrigation Efficiency, Agricultural Factor, 0.68
+
+## Status:
+- Stage: EXPERIMENTAL
+- Quality Gate: PASSED
+
+Generated: 2026-11-02 11:40:42
